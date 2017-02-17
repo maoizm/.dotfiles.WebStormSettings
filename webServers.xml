@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1bdf0105-6ca6-40e4-97be-4976f730c789" name="laragon" url="http://staging.dev">
+        <fileTransfer port="0" mountedRoot="C:\laragon\www\staging" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>

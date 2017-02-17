@@ -1,0 +1,114 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Git.Settings">
+        <option name="UPDATE_TYPE" value="REBASE" />
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+            <option name="processCode" value="true" />
+            <option name="processLiterals" value="true" />
+            <option name="processComments" value="true" />
+          </inspection_tool>
+          <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="JavaScriptLibraryMappings">
+        <includedPredefinedLibrary name="ECMAScript 6" />
+        <includedPredefinedLibrary name="Node.js Core" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="JsBowerSettings">
+        <exe-path>$USER_HOME$/bin/bower.cmd</exe-path>
+        <config-path />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>false</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>false</other-services-enabled>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="mao" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Spelling</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Less</id>
+              </State>
+              <State>
+                <id>Meteor</id>
+              </State>
+              <State>
+                <id>Pug/Jade</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path" value="$USER_HOME$/scoop/apps/nvm/current/nodejs/node" />
+        <property name="settings.editor.selected.configurable" value="xpath.settings" />
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="js.eslint.eslintPackage" value="" />
+        <property name="js.eslint.nodeInterpreter" value="$USER_HOME$/scoop/apps/nvm/current/nodejs/node" />
+        <property name="HbShouldOpenHtmlAsHb" value="" />
+        <property name="javascript.nodejs.core.library.configured.version" value="7.5.0" />
+        <property name="last_opened_file_path" value="$USER_HOME$/bin/bower.cmd" />
+        <property name="stylesheet.stylelint.nodeInterpreter" value="project" />
+        <property name="stylesheet.stylelint.stylelintPackage" value="" />
+        <property name="settings.editor.splitter.proportion" value="0.19089207" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>D:\Users\mao\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="TerminalProjectOptionsProvider">
+        <option name="myStartingDirectory" value="D:\Users\mao" />
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

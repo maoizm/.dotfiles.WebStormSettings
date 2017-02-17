@@ -1,0 +1,11 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="CMDER_ROOT" value="C:/tools/cmder" />
+    <macro name="DROPBOX_HOME" value="C:/Dropbox" />
+    <macro name="ONEDRIVE_HOME" value="C:/Onedrive" />
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
+  </component>
+</application>
